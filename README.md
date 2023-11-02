@@ -2,7 +2,6 @@
 
 I'm a passionate Machine Learning Engineer with expertise in Computer Vision, Natural Language Processing (NLP), and Time Series Analysis. I'm dedicated to leveraging AI to turn data into actionable insights. Here's a glimpse of what I do:
 
-- 🔬 Currently working on [mention your current project or focus].
 - 🌐 Exploring the intersection of Computer vision, NLP, Time Series.
 - 💼 Open to collaboration and exciting opportunities in the field of AI/ML.
 
